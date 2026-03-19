@@ -40,7 +40,8 @@ export default function Navbar() {
 
         <li>
           <a
-            href="#resume"
+            href="/myresume.pdf"
+            target="_blank"
             className="ml-4 px-4 py-2 border border-[#64ffda] text-[#64ffda] rounded hover:bg-[#64ffda]/10 transition"
           >
             Resume

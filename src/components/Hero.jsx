@@ -59,7 +59,7 @@ export default function Hero() {
           className="mt-10"
         >
           <a
-            href="#projects"
+            href="#work"
             className="px-7 py-4 border border-[#64ffda] text-[#64ffda] rounded hover:bg-[#64ffda]/10 hover:-translate-y-1 transition-all duration-300"
           >
             Check out my work

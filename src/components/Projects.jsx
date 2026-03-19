@@ -54,6 +54,24 @@ export default function Projects() {
           githerf={"https://github.com/elsatobin/Coffee-shop.git"}
           realherf={"https://e-mustafa.github.io/Tamplate-103-CoffeeKing-Bootstrap/"}
         />
+        <Project
+          image="/my-image/project-5.png"
+          title="RealWorld"
+          description="RealWorld is a reference full‑stack application specification that implements a Medium.com–like blogging platform with full CRUD (articles, comments), user authentication, profiles, and feed features."
+          stack={["Django", "Python", "Angular","Node.js"]}
+          reverse={true}
+          githerf={"https://github.com/elsatobin/myrealworld"}
+          realherf={"https://docs.realworld.show/"}
+        />
+        <Project
+          image="/my-image/project-6.png"
+          title="Host, run, and code Python in the cloud!"
+          description="A full‑stack boilerplate application integrating Django (backend) with React (frontend) and styled using Tailwind CSS. The project includes modern frontend workflows and backend APIs with session/cookie handling, making it suitable as a real scenario reference for user authentication, routing, and design integration between Django and React."
+          stack={["Django", "React", "TailwindCSS","Django REST Framework"]}
+          reverse={true}
+          githerf={"https://github.com/elsatobin/myDjango-React-Tailwindcss-Boilerplate.git"}
+          realherf={"https://www.pythonanywhere.com/"}
+        />
       </div>
 
     </section>
